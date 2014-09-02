@@ -19,10 +19,8 @@ void main(){
 				else{
 					ContEspacios++;
 					ContPalabras++;
-
 				}
-
-		}
+			}
 
 	}
 	printf("Letras: %d\n", &ContLetras );
